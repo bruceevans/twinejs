@@ -1,3 +1,10 @@
+## Be Fork
+
+This fork of twinejs will implement a "Dialogue Manager" window. The intent is to use
+twine as an editor for branching dialogue choices in Unity or Unreal. The manager addon
+will group and organize published story files (HTML) and trim them down into a more
+readable JSON that can be used by a game engine to create branching dialogue options.
+
 ## twinejs
 
 by Chris Klimas, Andrew Plotkin, Leon Arnott, Daithi O Crualaoich, Ingrid
